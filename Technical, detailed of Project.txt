@@ -1,0 +1,14 @@
+This project analyzes unemployment trends in India with a focus on the COVID-19 period.
+Key highlights:
+
+Data preprocessing and handling missing values.
+
+Regional unemployment analysis with bar and box plots.
+
+COVID-19 impact analysis: pre vs. during lockdown trends.
+
+Time series visualization of monthly unemployment rates.
+
+Tech stack: Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+The notebook demonstrates exploratory data analysis (EDA) techniques applied to socio-economic datasets.
